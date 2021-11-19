@@ -1,3 +1,40 @@
+Build social media MERN application with help of React Js and Material ui .
+In this application we can manually sign in or google signin.We can upload a post ,like a post ,comment a post ,delete post.
+
+Sign in  and signup Page 
+
+![image](https://user-images.githubusercontent.com/34640475/142577757-245b12b0-0699-410c-ac3f-7bc8af05ae50.png)
+
+![image](https://user-images.githubusercontent.com/34640475/142577857-b3716de9-2e0b-4a88-86df-097f1d9fa46d.png)
+
+home page 
+
+![image](https://user-images.githubusercontent.com/34640475/142577972-8fb7a1a2-0f6c-4664-8a87-fe987e6a673a.png)
+
+post page
+
+![image](https://user-images.githubusercontent.com/34640475/142578105-ebcace12-a7f9-4b49-a4ed-ee8ac6daf993.png)
+
+
+Key Features
+    
+    Post a photo with caption and tags.
+    Like a post ,comment post,delete post,search post by name or by tags.
+    Recommended post.
+    Fully responsive with help of Material Ui.
+    Signin functionaity.
+    Redux used for state management.
+    Pagination.
+    
+Key Technologies
+
+    React.js
+    Material ui
+    Redux
+    Redux -Thunk
+    Jwt
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
